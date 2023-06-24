@@ -1,0 +1,1946 @@
+INFO 2023-05-29 16:13:29,845 Watching for file changes with StatReloader
+INFO 2023-05-29 16:13:59,614 C:\Users\EliteBook\realtor\backend\properties\views.py changed, reloading.
+INFO 2023-05-29 16:14:01,033 Watching for file changes with StatReloader
+INFO 2023-05-29 16:14:04,591 C:\Users\EliteBook\realtor\backend\properties\views.py changed, reloading.
+INFO 2023-05-29 16:14:06,244 Watching for file changes with StatReloader
+INFO 2023-05-29 16:14:14,787 C:\Users\EliteBook\realtor\backend\properties\views.py changed, reloading.
+INFO 2023-05-29 16:14:16,408 Watching for file changes with StatReloader
+INFO 2023-05-29 16:14:35,500 "POST /reactions/ HTTP/1.1" 200 22
+INFO 2023-05-29 16:17:09,449 C:\Users\EliteBook\realtor\backend\properties\views.py changed, reloading.
+INFO 2023-05-29 16:17:11,568 Watching for file changes with StatReloader
+INFO 2023-05-29 16:17:15,932 C:\Users\EliteBook\realtor\backend\properties\views.py changed, reloading.
+INFO 2023-05-29 16:17:17,826 Watching for file changes with StatReloader
+INFO 2023-05-29 16:17:26,464 C:\Users\EliteBook\realtor\backend\properties\views.py changed, reloading.
+INFO 2023-05-29 16:17:28,255 Watching for file changes with StatReloader
+INFO 2023-05-29 16:17:32,624 C:\Users\EliteBook\realtor\backend\properties\views.py changed, reloading.
+INFO 2023-05-29 16:17:33,944 Watching for file changes with StatReloader
+INFO 2023-05-29 16:17:39,177 C:\Users\EliteBook\realtor\backend\properties\views.py changed, reloading.
+INFO 2023-05-29 16:17:40,702 Watching for file changes with StatReloader
+INFO 2023-05-29 16:17:46,959 C:\Users\EliteBook\realtor\backend\properties\views.py changed, reloading.
+INFO 2023-05-29 16:17:48,570 Watching for file changes with StatReloader
+INFO 2023-05-29 16:18:05,266 C:\Users\EliteBook\realtor\backend\properties\views.py changed, reloading.
+INFO 2023-05-29 16:18:06,940 Watching for file changes with StatReloader
+INFO 2023-05-29 16:18:10,264 C:\Users\EliteBook\realtor\backend\properties\views.py changed, reloading.
+INFO 2023-05-29 16:18:11,591 Watching for file changes with StatReloader
+INFO 2023-05-29 16:18:19,519 C:\Users\EliteBook\realtor\backend\properties\views.py changed, reloading.
+INFO 2023-05-29 16:18:20,768 Watching for file changes with StatReloader
+INFO 2023-05-29 16:18:24,858 C:\Users\EliteBook\realtor\backend\properties\views.py changed, reloading.
+INFO 2023-05-29 16:18:26,069 Watching for file changes with StatReloader
+INFO 2023-05-29 16:18:35,893 C:\Users\EliteBook\realtor\backend\properties\views.py changed, reloading.
+INFO 2023-05-29 16:18:37,484 Watching for file changes with StatReloader
+INFO 2023-05-29 16:18:41,658 C:\Users\EliteBook\realtor\backend\properties\views.py changed, reloading.
+INFO 2023-05-29 16:18:42,917 Watching for file changes with StatReloader
+INFO 2023-05-29 16:18:55,442 C:\Users\EliteBook\realtor\backend\properties\views.py changed, reloading.
+INFO 2023-05-29 16:18:56,892 Watching for file changes with StatReloader
+INFO 2023-05-29 16:19:06,405 C:\Users\EliteBook\realtor\backend\properties\views.py changed, reloading.
+INFO 2023-05-29 16:19:07,843 Watching for file changes with StatReloader
+INFO 2023-05-29 16:19:13,583 C:\Users\EliteBook\realtor\backend\properties\views.py changed, reloading.
+INFO 2023-05-29 16:19:15,239 Watching for file changes with StatReloader
+INFO 2023-05-29 16:19:19,540 C:\Users\EliteBook\realtor\backend\properties\views.py changed, reloading.
+INFO 2023-05-29 16:19:21,044 Watching for file changes with StatReloader
+INFO 2023-05-29 16:19:25,523 C:\Users\EliteBook\realtor\backend\properties\views.py changed, reloading.
+INFO 2023-05-29 16:19:26,742 Watching for file changes with StatReloader
+INFO 2023-05-29 16:19:38,085 "POST /reactions/ HTTP/1.1" 200 22
+INFO 2023-05-29 16:20:22,398 "POST /reactions/ HTTP/1.1" 200 22
+INFO 2023-05-29 16:20:46,250 C:\Users\EliteBook\realtor\backend\properties\views.py changed, reloading.
+INFO 2023-05-29 16:20:47,959 Watching for file changes with StatReloader
+INFO 2023-05-29 16:20:54,454 C:\Users\EliteBook\realtor\backend\properties\views.py changed, reloading.
+INFO 2023-05-29 16:20:55,687 Watching for file changes with StatReloader
+INFO 2023-05-29 16:21:01,722 C:\Users\EliteBook\realtor\backend\properties\views.py changed, reloading.
+INFO 2023-05-29 16:21:03,245 Watching for file changes with StatReloader
+INFO 2023-05-29 16:21:08,769 C:\Users\EliteBook\realtor\backend\properties\views.py changed, reloading.
+INFO 2023-05-29 16:21:10,442 Watching for file changes with StatReloader
+INFO 2023-05-29 16:21:14,919 C:\Users\EliteBook\realtor\backend\properties\views.py changed, reloading.
+INFO 2023-05-29 16:21:16,929 Watching for file changes with StatReloader
+INFO 2023-05-29 16:21:23,958 C:\Users\EliteBook\realtor\backend\properties\views.py changed, reloading.
+INFO 2023-05-29 16:21:25,539 Watching for file changes with StatReloader
+INFO 2023-05-29 16:21:32,365 C:\Users\EliteBook\realtor\backend\properties\views.py changed, reloading.
+INFO 2023-05-29 16:21:34,594 Watching for file changes with StatReloader
+INFO 2023-05-29 16:21:38,671 C:\Users\EliteBook\realtor\backend\properties\views.py changed, reloading.
+INFO 2023-05-29 16:21:40,221 Watching for file changes with StatReloader
+INFO 2023-05-29 16:22:20,439 C:\Users\EliteBook\realtor\backend\properties\views.py changed, reloading.
+INFO 2023-05-29 16:22:22,364 Watching for file changes with StatReloader
+INFO 2023-05-29 16:22:27,260 C:\Users\EliteBook\realtor\backend\properties\views.py changed, reloading.
+INFO 2023-05-29 16:22:29,354 Watching for file changes with StatReloader
+INFO 2023-05-29 16:22:34,003 C:\Users\EliteBook\realtor\backend\properties\views.py changed, reloading.
+INFO 2023-05-29 16:22:35,544 Watching for file changes with StatReloader
+INFO 2023-05-29 16:22:39,989 C:\Users\EliteBook\realtor\backend\properties\views.py changed, reloading.
+INFO 2023-05-29 16:22:41,285 Watching for file changes with StatReloader
+INFO 2023-05-29 16:22:51,328 C:\Users\EliteBook\realtor\backend\properties\views.py changed, reloading.
+INFO 2023-05-29 16:22:52,872 Watching for file changes with StatReloader
+INFO 2023-05-29 16:22:57,725 C:\Users\EliteBook\realtor\backend\properties\views.py changed, reloading.
+INFO 2023-05-29 16:22:59,553 Watching for file changes with StatReloader
+INFO 2023-05-29 16:27:57,989 C:\Users\EliteBook\realtor\backend\properties\models.py changed, reloading.
+INFO 2023-05-29 16:28:00,228 Watching for file changes with StatReloader
+INFO 2023-05-29 16:33:27,144 Watching for file changes with StatReloader
+INFO 2023-05-29 16:33:47,466 Watching for file changes with StatReloader
+INFO 2023-05-29 16:38:14,861 C:\Users\EliteBook\realtor\backend\properties\models.py changed, reloading.
+INFO 2023-05-29 16:38:16,379 Watching for file changes with StatReloader
+INFO 2023-05-29 16:38:55,796 C:\Users\EliteBook\realtor\backend\properties\models.py changed, reloading.
+INFO 2023-05-29 16:38:57,239 Watching for file changes with StatReloader
+INFO 2023-05-29 16:41:35,357 C:\Users\EliteBook\realtor\backend\properties\views.py changed, reloading.
+INFO 2023-05-29 16:41:36,862 Watching for file changes with StatReloader
+INFO 2023-05-29 16:41:40,432 C:\Users\EliteBook\realtor\backend\properties\views.py changed, reloading.
+INFO 2023-05-29 16:41:42,323 Watching for file changes with StatReloader
+INFO 2023-05-29 16:41:49,687 C:\Users\EliteBook\realtor\backend\properties\views.py changed, reloading.
+INFO 2023-05-29 16:41:51,198 Watching for file changes with StatReloader
+INFO 2023-05-29 16:42:13,165 C:\Users\EliteBook\realtor\backend\properties\views.py changed, reloading.
+INFO 2023-05-29 16:42:14,584 Watching for file changes with StatReloader
+INFO 2023-05-29 16:42:17,796 C:\Users\EliteBook\realtor\backend\properties\views.py changed, reloading.
+INFO 2023-05-29 16:42:20,026 Watching for file changes with StatReloader
+INFO 2023-05-29 16:42:33,370 C:\Users\EliteBook\realtor\backend\properties\views.py changed, reloading.
+INFO 2023-05-29 16:42:35,348 Watching for file changes with StatReloader
+INFO 2023-05-29 16:42:42,722 C:\Users\EliteBook\realtor\backend\properties\views.py changed, reloading.
+INFO 2023-05-29 16:42:44,309 Watching for file changes with StatReloader
+INFO 2023-05-29 16:43:11,360 C:\Users\EliteBook\realtor\backend\properties\views.py changed, reloading.
+INFO 2023-05-29 16:43:12,844 Watching for file changes with StatReloader
+INFO 2023-05-29 16:43:18,183 C:\Users\EliteBook\realtor\backend\properties\views.py changed, reloading.
+INFO 2023-05-29 16:43:19,573 Watching for file changes with StatReloader
+INFO 2023-05-29 16:43:29,185 C:\Users\EliteBook\realtor\backend\properties\views.py changed, reloading.
+INFO 2023-05-29 16:43:30,529 Watching for file changes with StatReloader
+ERROR 2023-05-29 16:43:51,348 Internal Server Error: /reactions/
+Traceback (most recent call last):
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 929, in get_or_create
+    return self.get(**kwargs), False
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 650, in get
+    raise self.model.DoesNotExist(
+properties.models.Reactions.DoesNotExist: Reactions matching query does not exist.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\EliteBook\realtor\backend\properties\views.py", line 86, in post
+    reactions = Reactions.objects.get_or_create(property=p, agent=user)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 936, in get_or_create
+    return self.create(**params), True
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 669, in create
+    obj = self.model(**kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\base.py", line 541, in __init__
+    _setattr(self, field.name, rel_obj)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\fields\related_descriptors.py", line 237, in __set__
+    raise ValueError(
+ValueError: Cannot assign "48": "Reactions.agent" must be a "User" instance.
+ERROR 2023-05-29 16:43:51,353 "POST /reactions/ HTTP/1.1" 500 127361
+INFO 2023-05-29 16:44:07,309 C:\Users\EliteBook\realtor\backend\properties\views.py changed, reloading.
+INFO 2023-05-29 16:44:08,936 Watching for file changes with StatReloader
+INFO 2023-05-29 16:44:50,782 C:\Users\EliteBook\realtor\backend\properties\views.py changed, reloading.
+INFO 2023-05-29 16:44:52,578 Watching for file changes with StatReloader
+ERROR 2023-05-29 16:44:54,615 Internal Server Error: /reactions/
+Traceback (most recent call last):
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 929, in get_or_create
+    return self.get(**kwargs), False
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 650, in get
+    raise self.model.DoesNotExist(
+properties.models.Reactions.DoesNotExist: Reactions matching query does not exist.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\EliteBook\realtor\backend\properties\views.py", line 85, in post
+    reactions = Reactions.objects.get_or_create(property=p, agent=user)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 936, in get_or_create
+    return self.create(**params), True
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 669, in create
+    obj = self.model(**kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\base.py", line 541, in __init__
+    _setattr(self, field.name, rel_obj)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\fields\related_descriptors.py", line 237, in __set__
+    raise ValueError(
+ValueError: Cannot assign "11": "Reactions.property" must be a "Property" instance.
+ERROR 2023-05-29 16:44:54,623 "POST /reactions/ HTTP/1.1" 500 127574
+INFO 2023-05-29 16:45:13,315 C:\Users\EliteBook\realtor\backend\properties\views.py changed, reloading.
+INFO 2023-05-29 16:45:15,235 Watching for file changes with StatReloader
+ERROR 2023-05-29 16:45:17,281 Internal Server Error: /reactions/
+Traceback (most recent call last):
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 929, in get_or_create
+    return self.get(**kwargs), False
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 650, in get
+    raise self.model.DoesNotExist(
+properties.models.Reactions.DoesNotExist: Reactions matching query does not exist.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\connections.py", line 254, in query
+    _mysql.connection.query(self, query)
+MySQLdb.IntegrityError: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`realtor`.`properties_reactions`, CONSTRAINT `properties_reactions_properties_id_1a911d91_fk_propertie` FOREIGN KEY (`properties_id`) REFERENCES `properties_property` (`id`))')
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\EliteBook\realtor\backend\properties\views.py", line 85, in post
+    reactions = Reactions.objects.get_or_create(property=p, agent=user)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 936, in get_or_create
+    return self.create(**params), True
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 671, in create
+    obj.save(force_insert=True, using=self.db)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\base.py", line 812, in save
+    self.save_base(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\base.py", line 863, in save_base
+    updated = self._save_table(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\base.py", line 1006, in _save_table
+    results = self._do_insert(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\base.py", line 1047, in _do_insert
+    return manager._insert(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 1791, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\sql\compiler.py", line 1660, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 103, in execute
+    return super().execute(sql, params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\connections.py", line 254, in query
+    _mysql.connection.query(self, query)
+django.db.utils.IntegrityError: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`realtor`.`properties_reactions`, CONSTRAINT `properties_reactions_properties_id_1a911d91_fk_propertie` FOREIGN KEY (`properties_id`) REFERENCES `properties_property` (`id`))')
+ERROR 2023-05-29 16:45:17,295 "POST /reactions/ HTTP/1.1" 500 222140
+INFO 2023-05-29 16:46:32,934 C:\Users\EliteBook\realtor\backend\properties\views.py changed, reloading.
+INFO 2023-05-29 16:46:34,882 Watching for file changes with StatReloader
+INFO 2023-05-29 16:46:44,548 C:\Users\EliteBook\realtor\backend\properties\views.py changed, reloading.
+INFO 2023-05-29 16:46:45,943 Watching for file changes with StatReloader
+INFO 2023-05-29 16:48:34,377 C:\Users\EliteBook\realtor\backend\properties\models.py changed, reloading.
+INFO 2023-05-29 16:48:36,393 Watching for file changes with StatReloader
+INFO 2023-05-29 16:48:42,746 C:\Users\EliteBook\realtor\backend\properties\views.py changed, reloading.
+INFO 2023-05-29 16:48:44,139 Watching for file changes with StatReloader
+ERROR 2023-05-29 16:48:49,992 Internal Server Error: /reactions/
+Traceback (most recent call last):
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 929, in get_or_create
+    return self.get(**kwargs), False
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 650, in get
+    raise self.model.DoesNotExist(
+properties.models.Reactions.DoesNotExist: Reactions matching query does not exist.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\connections.py", line 254, in query
+    _mysql.connection.query(self, query)
+MySQLdb.IntegrityError: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`realtor`.`properties_reactions`, CONSTRAINT `properties_reactions_properties_id_1a911d91_fk_propertie` FOREIGN KEY (`properties_id`) REFERENCES `properties_property` (`id`))')
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\EliteBook\realtor\backend\properties\views.py", line 82, in post
+    reactions = Reactions.objects.get_or_create(property=p, agent=user)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 936, in get_or_create
+    return self.create(**params), True
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 671, in create
+    obj.save(force_insert=True, using=self.db)
+  File "C:\Users\EliteBook\realtor\backend\properties\models.py", line 125, in save
+    super().save(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\base.py", line 812, in save
+    self.save_base(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\base.py", line 863, in save_base
+    updated = self._save_table(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\base.py", line 1006, in _save_table
+    results = self._do_insert(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\base.py", line 1047, in _do_insert
+    return manager._insert(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 1791, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\sql\compiler.py", line 1660, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 103, in execute
+    return super().execute(sql, params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\connections.py", line 254, in query
+    _mysql.connection.query(self, query)
+django.db.utils.IntegrityError: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`realtor`.`properties_reactions`, CONSTRAINT `properties_reactions_properties_id_1a911d91_fk_propertie` FOREIGN KEY (`properties_id`) REFERENCES `properties_property` (`id`))')
+ERROR 2023-05-29 16:48:50,003 "POST /reactions/ HTTP/1.1" 500 225835
+INFO 2023-05-29 16:59:13,511 C:\Users\EliteBook\realtor\backend\properties\views.py changed, reloading.
+INFO 2023-05-29 16:59:15,177 Watching for file changes with StatReloader
+INFO 2023-05-29 17:00:29,997 C:\Users\EliteBook\realtor\backend\properties\views.py changed, reloading.
+INFO 2023-05-29 17:00:31,956 Watching for file changes with StatReloader
+ERROR 2023-05-29 17:00:54,357 Internal Server Error: /reactions/
+Traceback (most recent call last):
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 929, in get_or_create
+    return self.get(**kwargs), False
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 650, in get
+    raise self.model.DoesNotExist(
+properties.models.Reactions.DoesNotExist: Reactions matching query does not exist.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\connections.py", line 254, in query
+    _mysql.connection.query(self, query)
+MySQLdb.IntegrityError: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`realtor`.`properties_reactions`, CONSTRAINT `properties_reactions_properties_id_1a911d91_fk_propertie` FOREIGN KEY (`properties_id`) REFERENCES `properties_property` (`id`))')
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\EliteBook\realtor\backend\properties\views.py", line 82, in post
+    reactions_instance, created = Reactions.objects.get_or_create(property=property_instance, agent=user)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 936, in get_or_create
+    return self.create(**params), True
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 671, in create
+    obj.save(force_insert=True, using=self.db)
+  File "C:\Users\EliteBook\realtor\backend\properties\models.py", line 125, in save
+    super().save(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\base.py", line 812, in save
+    self.save_base(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\base.py", line 863, in save_base
+    updated = self._save_table(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\base.py", line 1006, in _save_table
+    results = self._do_insert(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\base.py", line 1047, in _do_insert
+    return manager._insert(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 1791, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\sql\compiler.py", line 1660, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 103, in execute
+    return super().execute(sql, params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\connections.py", line 254, in query
+    _mysql.connection.query(self, query)
+django.db.utils.IntegrityError: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`realtor`.`properties_reactions`, CONSTRAINT `properties_reactions_properties_id_1a911d91_fk_propertie` FOREIGN KEY (`properties_id`) REFERENCES `properties_property` (`id`))')
+ERROR 2023-05-29 17:00:54,370 "POST /reactions/ HTTP/1.1" 500 226138
+INFO 2023-05-29 17:01:58,641 C:\Users\EliteBook\realtor\backend\properties\models.py changed, reloading.
+INFO 2023-05-29 17:01:59,994 Watching for file changes with StatReloader
+ERROR 2023-05-29 17:02:09,975 Internal Server Error: /reactions/
+Traceback (most recent call last):
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 929, in get_or_create
+    return self.get(**kwargs), False
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 650, in get
+    raise self.model.DoesNotExist(
+properties.models.Reactions.DoesNotExist: Reactions matching query does not exist.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\connections.py", line 254, in query
+    _mysql.connection.query(self, query)
+MySQLdb.IntegrityError: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`realtor`.`properties_reactions`, CONSTRAINT `properties_reactions_properties_id_1a911d91_fk_propertie` FOREIGN KEY (`properties_id`) REFERENCES `properties_property` (`id`))')
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\EliteBook\realtor\backend\properties\views.py", line 82, in post
+    reactions_instance, created = Reactions.objects.get_or_create(property=property_instance, agent=user)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 936, in get_or_create
+    return self.create(**params), True
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 671, in create
+    obj.save(force_insert=True, using=self.db)
+  File "C:\Users\EliteBook\realtor\backend\properties\models.py", line 125, in save
+    super().save(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\base.py", line 812, in save
+    self.save_base(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\base.py", line 863, in save_base
+    updated = self._save_table(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\base.py", line 1006, in _save_table
+    results = self._do_insert(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\base.py", line 1047, in _do_insert
+    return manager._insert(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 1791, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\sql\compiler.py", line 1660, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 103, in execute
+    return super().execute(sql, params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\connections.py", line 254, in query
+    _mysql.connection.query(self, query)
+django.db.utils.IntegrityError: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`realtor`.`properties_reactions`, CONSTRAINT `properties_reactions_properties_id_1a911d91_fk_propertie` FOREIGN KEY (`properties_id`) REFERENCES `properties_property` (`id`))')
+ERROR 2023-05-29 17:02:09,993 "POST /reactions/ HTTP/1.1" 500 226138
+INFO 2023-05-29 17:02:22,451 C:\Users\EliteBook\realtor\backend\properties\models.py changed, reloading.
+INFO 2023-05-29 17:02:24,210 Watching for file changes with StatReloader
+INFO 2023-05-29 17:02:35,242 C:\Users\EliteBook\realtor\backend\properties\models.py changed, reloading.
+INFO 2023-05-29 17:02:36,631 Watching for file changes with StatReloader
+INFO 2023-05-29 17:02:48,200 C:\Users\EliteBook\realtor\backend\properties\models.py changed, reloading.
+INFO 2023-05-29 17:02:50,549 Watching for file changes with StatReloader
+ERROR 2023-05-29 17:02:58,797 Internal Server Error: /reactions/
+Traceback (most recent call last):
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 929, in get_or_create
+    return self.get(**kwargs), False
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 650, in get
+    raise self.model.DoesNotExist(
+properties.models.Reactions.DoesNotExist: Reactions matching query does not exist.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\connections.py", line 254, in query
+    _mysql.connection.query(self, query)
+MySQLdb.IntegrityError: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`realtor`.`properties_reactions`, CONSTRAINT `properties_reactions_properties_id_1a911d91_fk_propertie` FOREIGN KEY (`properties_id`) REFERENCES `properties_property` (`id`))')
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\EliteBook\realtor\backend\properties\views.py", line 82, in post
+    reactions_instance, created = Reactions.objects.get_or_create(property=property_instance, agent=user)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 936, in get_or_create
+    return self.create(**params), True
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 671, in create
+    obj.save(force_insert=True, using=self.db)
+  File "C:\Users\EliteBook\realtor\backend\properties\models.py", line 125, in save
+    super().save(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\base.py", line 812, in save
+    self.save_base(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\base.py", line 863, in save_base
+    updated = self._save_table(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\base.py", line 1006, in _save_table
+    results = self._do_insert(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\base.py", line 1047, in _do_insert
+    return manager._insert(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 1791, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\sql\compiler.py", line 1660, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 103, in execute
+    return super().execute(sql, params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\connections.py", line 254, in query
+    _mysql.connection.query(self, query)
+django.db.utils.IntegrityError: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`realtor`.`properties_reactions`, CONSTRAINT `properties_reactions_properties_id_1a911d91_fk_propertie` FOREIGN KEY (`properties_id`) REFERENCES `properties_property` (`id`))')
+ERROR 2023-05-29 17:02:58,806 "POST /reactions/ HTTP/1.1" 500 226138
+ERROR 2023-05-29 17:03:06,364 Internal Server Error: /reactions/
+Traceback (most recent call last):
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 929, in get_or_create
+    return self.get(**kwargs), False
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 650, in get
+    raise self.model.DoesNotExist(
+properties.models.Reactions.DoesNotExist: Reactions matching query does not exist.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\connections.py", line 254, in query
+    _mysql.connection.query(self, query)
+MySQLdb.IntegrityError: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`realtor`.`properties_reactions`, CONSTRAINT `properties_reactions_properties_id_1a911d91_fk_propertie` FOREIGN KEY (`properties_id`) REFERENCES `properties_property` (`id`))')
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\EliteBook\realtor\backend\properties\views.py", line 82, in post
+    reactions_instance, created = Reactions.objects.get_or_create(property=property_instance, agent=user)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 936, in get_or_create
+    return self.create(**params), True
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 671, in create
+    obj.save(force_insert=True, using=self.db)
+  File "C:\Users\EliteBook\realtor\backend\properties\models.py", line 125, in save
+    super().save(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\base.py", line 812, in save
+    self.save_base(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\base.py", line 863, in save_base
+    updated = self._save_table(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\base.py", line 1006, in _save_table
+    results = self._do_insert(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\base.py", line 1047, in _do_insert
+    return manager._insert(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 1791, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\sql\compiler.py", line 1660, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 103, in execute
+    return super().execute(sql, params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\connections.py", line 254, in query
+    _mysql.connection.query(self, query)
+django.db.utils.IntegrityError: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`realtor`.`properties_reactions`, CONSTRAINT `properties_reactions_properties_id_1a911d91_fk_propertie` FOREIGN KEY (`properties_id`) REFERENCES `properties_property` (`id`))')
+ERROR 2023-05-29 17:03:06,366 "POST /reactions/ HTTP/1.1" 500 226138
+INFO 2023-05-29 17:04:06,601 C:\Users\EliteBook\realtor\backend\properties\views.py changed, reloading.
+INFO 2023-05-29 17:04:07,981 Watching for file changes with StatReloader
+INFO 2023-05-29 17:04:22,648 C:\Users\EliteBook\realtor\backend\properties\views.py changed, reloading.
+INFO 2023-05-29 17:04:24,313 Watching for file changes with StatReloader
+INFO 2023-05-29 17:04:28,053 C:\Users\EliteBook\realtor\backend\properties\views.py changed, reloading.
+INFO 2023-05-29 17:04:29,493 Watching for file changes with StatReloader
+ERROR 2023-05-29 17:04:34,452 Internal Server Error: /reactions/
+Traceback (most recent call last):
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 929, in get_or_create
+    return self.get(**kwargs), False
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 650, in get
+    raise self.model.DoesNotExist(
+properties.models.Reactions.DoesNotExist: Reactions matching query does not exist.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\connections.py", line 254, in query
+    _mysql.connection.query(self, query)
+MySQLdb.IntegrityError: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`realtor`.`properties_reactions`, CONSTRAINT `properties_reactions_properties_id_1a911d91_fk_propertie` FOREIGN KEY (`properties_id`) REFERENCES `properties_property` (`id`))')
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\EliteBook\realtor\backend\properties\views.py", line 81, in post
+    Reactions.objects.get_or_create(property=property_instance, agent=user)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 936, in get_or_create
+    return self.create(**params), True
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 671, in create
+    obj.save(force_insert=True, using=self.db)
+  File "C:\Users\EliteBook\realtor\backend\properties\models.py", line 125, in save
+    super().save(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\base.py", line 812, in save
+    self.save_base(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\base.py", line 863, in save_base
+    updated = self._save_table(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\base.py", line 1006, in _save_table
+    results = self._do_insert(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\base.py", line 1047, in _do_insert
+    return manager._insert(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 1791, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\sql\compiler.py", line 1660, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 103, in execute
+    return super().execute(sql, params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\connections.py", line 254, in query
+    _mysql.connection.query(self, query)
+django.db.utils.IntegrityError: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`realtor`.`properties_reactions`, CONSTRAINT `properties_reactions_properties_id_1a911d91_fk_propertie` FOREIGN KEY (`properties_id`) REFERENCES `properties_property` (`id`))')
+ERROR 2023-05-29 17:04:34,467 "POST /reactions/ HTTP/1.1" 500 226476
+INFO 2023-05-29 17:04:57,050 Watching for file changes with StatReloader
+ERROR 2023-05-29 17:05:09,204 Internal Server Error: /reactions/
+Traceback (most recent call last):
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 929, in get_or_create
+    return self.get(**kwargs), False
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 650, in get
+    raise self.model.DoesNotExist(
+properties.models.Reactions.DoesNotExist: Reactions matching query does not exist.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\connections.py", line 254, in query
+    _mysql.connection.query(self, query)
+MySQLdb.IntegrityError: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`realtor`.`properties_reactions`, CONSTRAINT `properties_reactions_properties_id_1a911d91_fk_propertie` FOREIGN KEY (`properties_id`) REFERENCES `properties_property` (`id`))')
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\EliteBook\realtor\backend\properties\views.py", line 81, in post
+    Reactions.objects.get_or_create(property=property_instance, agent=user)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 936, in get_or_create
+    return self.create(**params), True
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 671, in create
+    obj.save(force_insert=True, using=self.db)
+  File "C:\Users\EliteBook\realtor\backend\properties\models.py", line 125, in save
+    super().save(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\base.py", line 812, in save
+    self.save_base(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\base.py", line 863, in save_base
+    updated = self._save_table(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\base.py", line 1006, in _save_table
+    results = self._do_insert(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\base.py", line 1047, in _do_insert
+    return manager._insert(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 1791, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\sql\compiler.py", line 1660, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 103, in execute
+    return super().execute(sql, params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\connections.py", line 254, in query
+    _mysql.connection.query(self, query)
+django.db.utils.IntegrityError: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`realtor`.`properties_reactions`, CONSTRAINT `properties_reactions_properties_id_1a911d91_fk_propertie` FOREIGN KEY (`properties_id`) REFERENCES `properties_property` (`id`))')
+ERROR 2023-05-29 17:05:09,217 "POST /reactions/ HTTP/1.1" 500 226477
+INFO 2023-05-29 17:08:03,535 C:\Users\EliteBook\realtor\backend\properties\models.py changed, reloading.
+INFO 2023-05-29 17:08:05,282 Watching for file changes with StatReloader
+INFO 2023-05-29 17:08:20,369 C:\Users\EliteBook\realtor\backend\properties\models.py changed, reloading.
+INFO 2023-05-29 17:08:22,802 Watching for file changes with StatReloader
+INFO 2023-05-29 17:12:33,767 C:\Users\EliteBook\realtor\backend\properties\models.py changed, reloading.
+INFO 2023-05-29 17:12:35,185 Watching for file changes with StatReloader
+INFO 2023-05-29 17:12:54,003 C:\Users\EliteBook\realtor\backend\properties\models.py changed, reloading.
+INFO 2023-05-29 17:12:55,428 Watching for file changes with StatReloader
+ERROR 2023-05-29 17:14:08,913 Internal Server Error: /reactions/
+Traceback (most recent call last):
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 929, in get_or_create
+    return self.get(**kwargs), False
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 650, in get
+    raise self.model.DoesNotExist(
+properties.models.Reactions.DoesNotExist: Reactions matching query does not exist.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\connections.py", line 254, in query
+    _mysql.connection.query(self, query)
+MySQLdb.IntegrityError: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`realtor`.`properties_reactions`, CONSTRAINT `properties_reactions_properties_id_1a911d91_fk_propertie` FOREIGN KEY (`properties_id`) REFERENCES `properties_property` (`id`))')
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\EliteBook\realtor\backend\properties\views.py", line 81, in post
+    Reactions.objects.get_or_create(property=property_instance, agent=user)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 936, in get_or_create
+    return self.create(**params), True
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 671, in create
+    obj.save(force_insert=True, using=self.db)
+  File "C:\Users\EliteBook\realtor\backend\properties\models.py", line 60, in save
+    super().save(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\base.py", line 812, in save
+    self.save_base(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\base.py", line 863, in save_base
+    updated = self._save_table(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\base.py", line 1006, in _save_table
+    results = self._do_insert(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\base.py", line 1047, in _do_insert
+    return manager._insert(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 1791, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\sql\compiler.py", line 1660, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 103, in execute
+    return super().execute(sql, params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\connections.py", line 254, in query
+    _mysql.connection.query(self, query)
+django.db.utils.IntegrityError: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`realtor`.`properties_reactions`, CONSTRAINT `properties_reactions_properties_id_1a911d91_fk_propertie` FOREIGN KEY (`properties_id`) REFERENCES `properties_property` (`id`))')
+ERROR 2023-05-29 17:14:08,923 "POST /reactions/ HTTP/1.1" 500 226472
+
+
+ALTER TABLE properties_reactions
+DROP FOREIGN KEY realtor/properties_reactions_flags_id_3f937666_fk_properties_flags_id;
+ERROR 2023-05-29 17:18:28,273 Internal Server Error: /reactions/
+Traceback (most recent call last):
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 929, in get_or_create
+    return self.get(**kwargs), False
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 650, in get
+    raise self.model.DoesNotExist(
+properties.models.Reactions.DoesNotExist: Reactions matching query does not exist.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\connections.py", line 254, in query
+    _mysql.connection.query(self, query)
+MySQLdb.IntegrityError: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`realtor`.`properties_reactions`, CONSTRAINT `properties_reactions_properties_id_1a911d91_fk_propertie` FOREIGN KEY (`properties_id`) REFERENCES `properties_property` (`id`))')
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\EliteBook\realtor\backend\properties\views.py", line 81, in post
+    Reactions.objects.get_or_create(property=property_instance, agent=user)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 936, in get_or_create
+    return self.create(**params), True
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 671, in create
+    obj.save(force_insert=True, using=self.db)
+  File "C:\Users\EliteBook\realtor\backend\properties\models.py", line 60, in save
+    super().save(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\base.py", line 812, in save
+    self.save_base(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\base.py", line 863, in save_base
+    updated = self._save_table(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\base.py", line 1006, in _save_table
+    results = self._do_insert(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\base.py", line 1047, in _do_insert
+    return manager._insert(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 1791, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\sql\compiler.py", line 1660, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 103, in execute
+    return super().execute(sql, params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\connections.py", line 254, in query
+    _mysql.connection.query(self, query)
+django.db.utils.IntegrityError: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`realtor`.`properties_reactions`, CONSTRAINT `properties_reactions_properties_id_1a911d91_fk_propertie` FOREIGN KEY (`properties_id`) REFERENCES `properties_property` (`id`))')
+ERROR 2023-05-29 17:18:28,275 "POST /reactions/ HTTP/1.1" 500 226472
+ERROR 2023-05-29 17:19:49,832 Internal Server Error: /reactions/
+Traceback (most recent call last):
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 929, in get_or_create
+    return self.get(**kwargs), False
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 650, in get
+    raise self.model.DoesNotExist(
+properties.models.Reactions.DoesNotExist: Reactions matching query does not exist.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\connections.py", line 254, in query
+    _mysql.connection.query(self, query)
+MySQLdb.IntegrityError: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`realtor`.`properties_reactions`, CONSTRAINT `properties_reactions_properties_id_1a911d91_fk_propertie` FOREIGN KEY (`properties_id`) REFERENCES `properties_property` (`id`))')
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\EliteBook\realtor\backend\properties\views.py", line 81, in post
+    Reactions.objects.get_or_create(property=property_instance, agent=user)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 936, in get_or_create
+    return self.create(**params), True
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 671, in create
+    obj.save(force_insert=True, using=self.db)
+  File "C:\Users\EliteBook\realtor\backend\properties\models.py", line 60, in save
+    super().save(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\base.py", line 812, in save
+    self.save_base(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\base.py", line 863, in save_base
+    updated = self._save_table(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\base.py", line 1006, in _save_table
+    results = self._do_insert(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\base.py", line 1047, in _do_insert
+    return manager._insert(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 1791, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\sql\compiler.py", line 1660, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 103, in execute
+    return super().execute(sql, params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\connections.py", line 254, in query
+    _mysql.connection.query(self, query)
+django.db.utils.IntegrityError: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`realtor`.`properties_reactions`, CONSTRAINT `properties_reactions_properties_id_1a911d91_fk_propertie` FOREIGN KEY (`properties_id`) REFERENCES `properties_property` (`id`))')
+ERROR 2023-05-29 17:19:49,835 "POST /reactions/ HTTP/1.1" 500 226472
+INFO 2023-05-29 17:20:38,537 C:\Users\EliteBook\realtor\backend\properties\views.py changed, reloading.
+INFO 2023-05-29 17:20:40,292 Watching for file changes with StatReloader
+INFO 2023-05-29 17:20:51,916 C:\Users\EliteBook\realtor\backend\properties\models.py changed, reloading.
+INFO 2023-05-29 17:20:53,730 Watching for file changes with StatReloader
+ERROR 2023-05-29 17:21:13,339 Internal Server Error: /reactions/
+Traceback (most recent call last):
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 929, in get_or_create
+    return self.get(**kwargs), False
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 650, in get
+    raise self.model.DoesNotExist(
+properties.models.Reactions.DoesNotExist: Reactions matching query does not exist.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\connections.py", line 254, in query
+    _mysql.connection.query(self, query)
+MySQLdb.IntegrityError: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`realtor`.`properties_reactions`, CONSTRAINT `properties_reactions_properties_id_1a911d91_fk_propertie` FOREIGN KEY (`properties_id`) REFERENCES `properties_property` (`id`))')
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\EliteBook\realtor\backend\properties\views.py", line 81, in post
+    Reactions.objects.get_or_create(property=property_instance, agent=user)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 936, in get_or_create
+    return self.create(**params), True
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 671, in create
+    obj.save(force_insert=True, using=self.db)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\base.py", line 812, in save
+    self.save_base(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\base.py", line 863, in save_base
+    updated = self._save_table(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\base.py", line 1006, in _save_table
+    results = self._do_insert(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\base.py", line 1047, in _do_insert
+    return manager._insert(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 1791, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\sql\compiler.py", line 1660, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 103, in execute
+    return super().execute(sql, params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\connections.py", line 254, in query
+    _mysql.connection.query(self, query)
+django.db.utils.IntegrityError: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`realtor`.`properties_reactions`, CONSTRAINT `properties_reactions_properties_id_1a911d91_fk_propertie` FOREIGN KEY (`properties_id`) REFERENCES `properties_property` (`id`))')
+ERROR 2023-05-29 17:21:13,349 "POST /reactions/ HTTP/1.1" 500 222507
+ERROR 2023-05-29 17:22:11,909 Internal Server Error: /reactions/
+Traceback (most recent call last):
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 929, in get_or_create
+    return self.get(**kwargs), False
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 650, in get
+    raise self.model.DoesNotExist(
+properties.models.Reactions.DoesNotExist: Reactions matching query does not exist.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\connections.py", line 254, in query
+    _mysql.connection.query(self, query)
+MySQLdb.IntegrityError: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`realtor`.`properties_reactions`, CONSTRAINT `properties_reactions_properties_id_1a911d91_fk_propertie` FOREIGN KEY (`propertiesss_id`) REFERENCES `properties_property` (`id`))')
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\EliteBook\realtor\backend\properties\views.py", line 81, in post
+    Reactions.objects.get_or_create(property=property_instance, agent=user)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 936, in get_or_create
+    return self.create(**params), True
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 671, in create
+    obj.save(force_insert=True, using=self.db)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\base.py", line 812, in save
+    self.save_base(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\base.py", line 863, in save_base
+    updated = self._save_table(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\base.py", line 1006, in _save_table
+    results = self._do_insert(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\base.py", line 1047, in _do_insert
+    return manager._insert(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 1791, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\sql\compiler.py", line 1660, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 103, in execute
+    return super().execute(sql, params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\connections.py", line 254, in query
+    _mysql.connection.query(self, query)
+django.db.utils.IntegrityError: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`realtor`.`properties_reactions`, CONSTRAINT `properties_reactions_properties_id_1a911d91_fk_propertie` FOREIGN KEY (`propertiesss_id`) REFERENCES `properties_property` (`id`))')
+ERROR 2023-05-29 17:22:11,911 "POST /reactions/ HTTP/1.1" 500 222527
+INFO 2023-05-29 17:22:39,764 Watching for file changes with StatReloader
+ERROR 2023-05-29 17:22:57,197 Internal Server Error: /reactions/
+Traceback (most recent call last):
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 929, in get_or_create
+    return self.get(**kwargs), False
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 650, in get
+    raise self.model.DoesNotExist(
+properties.models.Reactions.DoesNotExist: Reactions matching query does not exist.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\connections.py", line 254, in query
+    _mysql.connection.query(self, query)
+MySQLdb.IntegrityError: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`realtor`.`properties_reactions`, CONSTRAINT `properties_reactions_properties_id_1a911d91_fk_propertie` FOREIGN KEY (`propertiesss_id`) REFERENCES `properties_property` (`id`))')
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\EliteBook\realtor\backend\properties\views.py", line 81, in post
+    Reactions.objects.get_or_create(property=property_instance, agent=user)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 936, in get_or_create
+    return self.create(**params), True
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 671, in create
+    obj.save(force_insert=True, using=self.db)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\base.py", line 812, in save
+    self.save_base(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\base.py", line 863, in save_base
+    updated = self._save_table(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\base.py", line 1006, in _save_table
+    results = self._do_insert(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\base.py", line 1047, in _do_insert
+    return manager._insert(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 1791, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\sql\compiler.py", line 1660, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 103, in execute
+    return super().execute(sql, params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\connections.py", line 254, in query
+    _mysql.connection.query(self, query)
+django.db.utils.IntegrityError: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`realtor`.`properties_reactions`, CONSTRAINT `properties_reactions_properties_id_1a911d91_fk_propertie` FOREIGN KEY (`propertiesss_id`) REFERENCES `properties_property` (`id`))')
+ERROR 2023-05-29 17:22:57,206 "POST /reactions/ HTTP/1.1" 500 222527
+INFO 2023-05-29 17:24:22,776 C:\Users\EliteBook\realtor\backend\properties\models.py changed, reloading.
+INFO 2023-05-29 17:24:24,516 Watching for file changes with StatReloader
+INFO 2023-05-29 17:25:46,064 C:\Users\EliteBook\realtor\backend\properties\models.py changed, reloading.
+INFO 2023-05-29 17:25:47,707 Watching for file changes with StatReloader
+ERROR 2023-05-29 17:26:17,489 Internal Server Error: /reactions/
+Traceback (most recent call last):
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 929, in get_or_create
+    return self.get(**kwargs), False
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 650, in get
+    raise self.model.DoesNotExist(
+properties.models.Reactions.DoesNotExist: Reactions matching query does not exist.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\connections.py", line 254, in query
+    _mysql.connection.query(self, query)
+MySQLdb.IntegrityError: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`realtor`.`properties_reactions`, CONSTRAINT `properties_reactions_properties_id_1a911d91_fk_propertie` FOREIGN KEY (`propertiesss_id`) REFERENCES `properties_property` (`id`))')
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\EliteBook\realtor\backend\properties\views.py", line 81, in post
+    Reactions.objects.get_or_create(property=property_instance, agent=user)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 936, in get_or_create
+    return self.create(**params), True
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 671, in create
+    obj.save(force_insert=True, using=self.db)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\base.py", line 812, in save
+    self.save_base(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\base.py", line 863, in save_base
+    updated = self._save_table(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\base.py", line 1006, in _save_table
+    results = self._do_insert(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\base.py", line 1047, in _do_insert
+    return manager._insert(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 1791, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\sql\compiler.py", line 1660, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 103, in execute
+    return super().execute(sql, params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\connections.py", line 254, in query
+    _mysql.connection.query(self, query)
+django.db.utils.IntegrityError: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`realtor`.`properties_reactions`, CONSTRAINT `properties_reactions_properties_id_1a911d91_fk_propertie` FOREIGN KEY (`propertiesss_id`) REFERENCES `properties_property` (`id`))')
+ERROR 2023-05-29 17:26:17,500 "POST /reactions/ HTTP/1.1" 500 222527
+INFO 2023-05-29 17:26:28,479 C:\Users\EliteBook\realtor\backend\properties\models.py changed, reloading.
+INFO 2023-05-29 17:26:30,044 Watching for file changes with StatReloader
+INFO 2023-05-29 17:26:59,781 C:\Users\EliteBook\realtor\backend\properties\models.py changed, reloading.
+INFO 2023-05-29 17:27:01,514 Watching for file changes with StatReloader
+INFO 2023-05-29 17:27:30,135 C:\Users\EliteBook\realtor\backend\properties\models.py changed, reloading.
+INFO 2023-05-29 17:27:31,749 Watching for file changes with StatReloader
+INFO 2023-05-29 17:29:33,639 C:\Users\EliteBook\realtor\backend\properties\models.py changed, reloading.
+INFO 2023-05-29 17:29:35,131 Watching for file changes with StatReloader
+INFO 2023-05-29 17:32:01,183 C:\Users\EliteBook\realtor\backend\properties\models.py changed, reloading.
+INFO 2023-05-29 17:32:02,825 Watching for file changes with StatReloader
+INFO 2023-05-29 17:32:44,533 C:\Users\EliteBook\realtor\backend\properties\models.py changed, reloading.
+INFO 2023-05-29 17:32:46,351 Watching for file changes with StatReloader
+INFO 2023-05-29 17:33:30,182 C:\Users\EliteBook\realtor\backend\properties\models.py changed, reloading.
+INFO 2023-05-29 17:33:31,719 Watching for file changes with StatReloader
+INFO 2023-05-29 17:33:39,945 C:\Users\EliteBook\realtor\backend\properties\models.py changed, reloading.
+INFO 2023-05-29 17:33:41,327 Watching for file changes with StatReloader
+INFO 2023-05-29 17:34:58,414 C:\Users\EliteBook\realtor\backend\properties\models.py changed, reloading.
+INFO 2023-05-29 17:34:59,916 Watching for file changes with StatReloader
+INFO 2023-05-29 17:35:37,397 C:\Users\EliteBook\realtor\backend\properties\models.py changed, reloading.
+INFO 2023-05-29 17:35:39,010 Watching for file changes with StatReloader
+INFO 2023-05-29 17:36:12,726 C:\Users\EliteBook\realtor\backend\properties\models.py changed, reloading.
+INFO 2023-05-29 17:36:14,476 Watching for file changes with StatReloader
+INFO 2023-05-29 17:36:31,465 C:\Users\EliteBook\realtor\backend\properties\models.py changed, reloading.
+INFO 2023-05-29 17:36:32,971 Watching for file changes with StatReloader
+INFO 2023-05-29 17:36:50,559 C:\Users\EliteBook\realtor\backend\properties\models.py changed, reloading.
+INFO 2023-05-29 17:36:52,594 Watching for file changes with StatReloader
+INFO 2023-05-29 17:37:33,147 C:\Users\EliteBook\realtor\backend\properties\models.py changed, reloading.
+INFO 2023-05-29 17:37:34,744 Watching for file changes with StatReloader
+INFO 2023-05-29 17:37:57,506 C:\Users\EliteBook\realtor\backend\properties\models.py changed, reloading.
+INFO 2023-05-29 17:37:59,154 Watching for file changes with StatReloader
+INFO 2023-05-29 17:38:24,903 C:\Users\EliteBook\realtor\backend\properties\models.py changed, reloading.
+INFO 2023-05-29 17:38:26,256 Watching for file changes with StatReloader
+INFO 2023-05-29 17:38:47,516 C:\Users\EliteBook\realtor\backend\properties\models.py changed, reloading.
+INFO 2023-05-29 17:38:49,071 Watching for file changes with StatReloader
+INFO 2023-05-29 17:39:32,279 C:\Users\EliteBook\realtor\backend\properties\models.py changed, reloading.
+INFO 2023-05-29 17:39:34,165 Watching for file changes with StatReloader
+INFO 2023-05-29 17:39:51,415 C:\Users\EliteBook\realtor\backend\properties\models.py changed, reloading.
+INFO 2023-05-29 17:39:53,603 Watching for file changes with StatReloader
+INFO 2023-05-29 17:40:33,089 C:\Users\EliteBook\realtor\backend\properties\serializers.py changed, reloading.
+INFO 2023-05-29 17:40:34,847 Watching for file changes with StatReloader
+INFO 2023-05-29 17:43:41,704 C:\Users\EliteBook\realtor\backend\properties\serializers.py changed, reloading.
+INFO 2023-05-29 17:43:43,233 Watching for file changes with StatReloader
+INFO 2023-05-29 17:44:14,094 C:\Users\EliteBook\realtor\backend\properties\models.py changed, reloading.
+INFO 2023-05-29 17:44:15,573 Watching for file changes with StatReloader
+INFO 2023-05-29 17:45:06,695 C:\Users\EliteBook\realtor\backend\properties\views.py changed, reloading.
+INFO 2023-05-29 17:45:08,989 Watching for file changes with StatReloader
+INFO 2023-05-29 17:45:15,420 C:\Users\EliteBook\realtor\backend\properties\views.py changed, reloading.
+INFO 2023-05-29 17:45:16,790 Watching for file changes with StatReloader
+INFO 2023-05-29 17:45:38,738 C:\Users\EliteBook\realtor\backend\properties\models.py changed, reloading.
+INFO 2023-05-29 17:45:40,945 Watching for file changes with StatReloader
+INFO 2023-05-29 17:45:50,113 "POST /reactions/ HTTP/1.1" 200 22
+INFO 2023-05-29 17:48:27,642 C:\Users\EliteBook\realtor\backend\properties\models.py changed, reloading.
+INFO 2023-05-29 17:48:30,585 Watching for file changes with StatReloader
+INFO 2023-05-29 17:48:39,155 C:\Users\EliteBook\realtor\backend\properties\models.py changed, reloading.
+INFO 2023-05-29 17:48:41,187 Watching for file changes with StatReloader
+INFO 2023-05-29 17:48:47,743 C:\Users\EliteBook\realtor\backend\properties\models.py changed, reloading.
+INFO 2023-05-29 17:48:49,376 Watching for file changes with StatReloader
+INFO 2023-05-29 17:49:00,099 C:\Users\EliteBook\realtor\backend\properties\models.py changed, reloading.
+INFO 2023-05-29 17:49:01,577 Watching for file changes with StatReloader
+INFO 2023-05-29 17:49:06,167 C:\Users\EliteBook\realtor\backend\properties\models.py changed, reloading.
+INFO 2023-05-29 17:49:08,396 Watching for file changes with StatReloader
+INFO 2023-05-29 17:49:16,914 C:\Users\EliteBook\realtor\backend\properties\models.py changed, reloading.
+INFO 2023-05-29 17:49:19,442 Watching for file changes with StatReloader
+INFO 2023-05-29 17:49:24,772 C:\Users\EliteBook\realtor\backend\properties\models.py changed, reloading.
+INFO 2023-05-29 17:49:26,088 Watching for file changes with StatReloader
+INFO 2023-05-29 17:50:33,489 C:\Users\EliteBook\realtor\backend\properties\views.py changed, reloading.
+INFO 2023-05-29 17:50:35,589 Watching for file changes with StatReloader
+INFO 2023-05-29 17:50:41,127 C:\Users\EliteBook\realtor\backend\properties\views.py changed, reloading.
+INFO 2023-05-29 17:50:42,921 Watching for file changes with StatReloader
+INFO 2023-05-29 17:50:47,483 C:\Users\EliteBook\realtor\backend\properties\views.py changed, reloading.
+INFO 2023-05-29 17:50:49,293 Watching for file changes with StatReloader
+INFO 2023-05-29 17:51:19,193 "POST /reactions/ HTTP/1.1" 200 22
+INFO 2023-05-29 17:57:10,747 "POST /reactions/ HTTP/1.1" 200 22
+INFO 2023-05-29 18:00:56,591 C:\Users\EliteBook\realtor\backend\properties\models.py changed, reloading.
+INFO 2023-05-29 18:00:59,053 Watching for file changes with StatReloader
+INFO 2023-05-29 18:01:04,048 C:\Users\EliteBook\realtor\backend\properties\models.py changed, reloading.
+INFO 2023-05-29 18:01:06,159 Watching for file changes with StatReloader
+INFO 2023-05-29 18:01:12,406 C:\Users\EliteBook\realtor\backend\properties\models.py changed, reloading.
+INFO 2023-05-29 18:01:14,891 Watching for file changes with StatReloader
+INFO 2023-05-29 18:01:19,985 C:\Users\EliteBook\realtor\backend\properties\models.py changed, reloading.
+INFO 2023-05-29 18:01:21,965 Watching for file changes with StatReloader
+INFO 2023-05-29 18:01:27,100 C:\Users\EliteBook\realtor\backend\properties\models.py changed, reloading.
+INFO 2023-05-29 18:01:29,014 Watching for file changes with StatReloader
+INFO 2023-05-29 18:01:33,810 C:\Users\EliteBook\realtor\backend\properties\models.py changed, reloading.
+INFO 2023-05-29 18:01:35,299 Watching for file changes with StatReloader
+INFO 2023-05-29 18:01:48,889 C:\Users\EliteBook\realtor\backend\properties\models.py changed, reloading.
+INFO 2023-05-29 18:01:51,546 Watching for file changes with StatReloader
+INFO 2023-05-29 18:04:15,583 C:\Users\EliteBook\realtor\backend\properties\models.py changed, reloading.
+INFO 2023-05-29 18:04:18,872 Watching for file changes with StatReloader
+INFO 2023-05-29 18:04:32,867 C:\Users\EliteBook\realtor\backend\properties\models.py changed, reloading.
+INFO 2023-05-29 18:04:34,328 Watching for file changes with StatReloader
+INFO 2023-05-29 18:07:06,679 C:\Users\EliteBook\realtor\backend\properties\models.py changed, reloading.
+INFO 2023-05-29 18:07:08,346 Watching for file changes with StatReloader
+INFO 2023-05-29 18:08:46,250 C:\Users\EliteBook\realtor\backend\properties\models.py changed, reloading.
+INFO 2023-05-29 18:08:47,772 Watching for file changes with StatReloader
+INFO 2023-05-31 19:14:30,349 Watching for file changes with StatReloader
+WARNING 2023-05-31 19:14:43,053 Not Found: /accounts/
+WARNING 2023-05-31 19:14:43,055 "GET /accounts/ HTTP/1.1" 404 4834
+WARNING 2023-05-31 19:14:45,315 Not Found: /accounts/
+WARNING 2023-05-31 19:14:45,317 "GET /accounts/ HTTP/1.1" 404 4834
+INFO 2023-05-31 19:14:48,166 "GET / HTTP/1.1" 200 10101
+INFO 2023-05-31 19:15:54,524 "OPTIONS /properties/ HTTP/1.1" 200 0
+INFO 2023-05-31 19:15:54,552 "OPTIONS /properties/ HTTP/1.1" 200 0
+INFO 2023-05-31 19:15:54,935 "GET /properties/ HTTP/1.1" 200 1785
+INFO 2023-05-31 19:15:54,965 "GET /media/users/passports/image1.png HTTP/1.1" 200 150031
+INFO 2023-05-31 19:15:54,971 "GET /properties/ HTTP/1.1" 200 1785
+INFO 2023-05-31 19:15:55,004 "GET /properties/ HTTP/1.1" 200 1785
+INFO 2023-05-31 19:15:55,843 "GET /media/properties/passports/image2_8S93ImV.png HTTP/1.1" 200 38574
+INFO 2023-05-31 19:15:55,919 "GET /media/properties/passports/image4_8pau8xJ.png HTTP/1.1" 200 61535
+INFO 2023-05-31 19:32:12,223 C:\Users\EliteBook\realtor\backend\backend\settings.py changed, reloading.
+INFO 2023-05-31 19:32:15,472 Watching for file changes with StatReloader
+INFO 2023-06-02 19:01:07,917 Watching for file changes with StatReloader
+INFO 2023-06-02 19:02:46,655 "OPTIONS /properties/ HTTP/1.1" 200 0
+INFO 2023-06-02 19:02:46,656 "OPTIONS /properties/ HTTP/1.1" 200 0
+INFO 2023-06-02 19:02:46,657 "OPTIONS /properties/ HTTP/1.1" 200 0
+INFO 2023-06-02 19:02:46,918 "GET /media/users/passports/image1.png HTTP/1.1" 200 150031
+ERROR 2023-06-02 19:02:52,715 Internal Server Error: /properties/
+Traceback (most recent call last):
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\connections.py", line 254, in query
+    _mysql.connection.query(self, query)
+MySQLdb.OperationalError: (2013, 'Lost connection to server during query')
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\generics.py", line 199, in get
+    return self.list(request, *args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\mixins.py", line 46, in list
+    return Response(serializer.data)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\serializers.py", line 768, in data
+    ret = super().data
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\serializers.py", line 686, in to_representation
+    return [
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 394, in __iter__
+    self._fetch_all()
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 1867, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 87, in __iter__
+    results = compiler.execute_sql(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\sql\compiler.py", line 1398, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 103, in execute
+    return super().execute(sql, params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\connections.py", line 254, in query
+    _mysql.connection.query(self, query)
+django.db.utils.OperationalError: (2013, 'Lost connection to server during query')
+ERROR 2023-06-02 19:02:52,728 "GET /properties/ HTTP/1.1" 500 199084
+ERROR 2023-06-02 19:03:38,383 Internal Server Error: /properties/
+Traceback (most recent call last):
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\base\base.py", line 282, in ensure_connection
+    self.connect()
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\base\base.py", line 263, in connect
+    self.connection = self.get_new_connection(conn_params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\mysql\base.py", line 247, in get_new_connection
+    connection = Database.connect(**conn_params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\__init__.py", line 123, in Connect
+    return Connection(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\connections.py", line 185, in __init__
+    super().__init__(*args, **kwargs2)
+MySQLdb.OperationalError: (2002, "Can't connect to server on 'localhost' (10061)")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\generics.py", line 199, in get
+    return self.list(request, *args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\mixins.py", line 46, in list
+    return Response(serializer.data)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\serializers.py", line 768, in data
+    ret = super().data
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\serializers.py", line 686, in to_representation
+    return [
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 394, in __iter__
+    self._fetch_all()
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 1867, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 87, in __iter__
+    results = compiler.execute_sql(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\sql\compiler.py", line 1396, in execute_sql
+    cursor = self.connection.cursor()
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\base\base.py", line 323, in cursor
+    return self._cursor()
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\base\base.py", line 299, in _cursor
+    self.ensure_connection()
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\base\base.py", line 281, in ensure_connection
+    with self.wrap_database_errors:
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\base\base.py", line 282, in ensure_connection
+    self.connect()
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\base\base.py", line 263, in connect
+    self.connection = self.get_new_connection(conn_params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\mysql\base.py", line 247, in get_new_connection
+    connection = Database.connect(**conn_params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\__init__.py", line 123, in Connect
+    return Connection(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\connections.py", line 185, in __init__
+    super().__init__(*args, **kwargs2)
+django.db.utils.OperationalError: (2002, "Can't connect to server on 'localhost' (10061)")
+ERROR 2023-06-02 19:03:38,389 "GET /properties/ HTTP/1.1" 500 255821
+ERROR 2023-06-02 19:03:51,646 Internal Server Error: /properties/
+Traceback (most recent call last):
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\base\base.py", line 282, in ensure_connection
+    self.connect()
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\base\base.py", line 263, in connect
+    self.connection = self.get_new_connection(conn_params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\mysql\base.py", line 247, in get_new_connection
+    connection = Database.connect(**conn_params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\__init__.py", line 123, in Connect
+    return Connection(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\connections.py", line 185, in __init__
+    super().__init__(*args, **kwargs2)
+MySQLdb.OperationalError: (2002, "Can't connect to server on 'localhost' (10061)")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\generics.py", line 199, in get
+    return self.list(request, *args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\mixins.py", line 46, in list
+    return Response(serializer.data)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\serializers.py", line 768, in data
+    ret = super().data
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\serializers.py", line 686, in to_representation
+    return [
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 394, in __iter__
+    self._fetch_all()
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 1867, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 87, in __iter__
+    results = compiler.execute_sql(
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\sql\compiler.py", line 1396, in execute_sql
+    cursor = self.connection.cursor()
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\base\base.py", line 323, in cursor
+    return self._cursor()
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\base\base.py", line 299, in _cursor
+    self.ensure_connection()
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\base\base.py", line 281, in ensure_connection
+    with self.wrap_database_errors:
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\base\base.py", line 282, in ensure_connection
+    self.connect()
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\base\base.py", line 263, in connect
+    self.connection = self.get_new_connection(conn_params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\backends\mysql\base.py", line 247, in get_new_connection
+    connection = Database.connect(**conn_params)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\__init__.py", line 123, in Connect
+    return Connection(*args, **kwargs)
+  File "C:\Users\EliteBook\AppData\Local\Programs\Python\Python310\lib\site-packages\MySQLdb\connections.py", line 185, in __init__
+    super().__init__(*args, **kwargs2)
+django.db.utils.OperationalError: (2002, "Can't connect to server on 'localhost' (10061)")
+ERROR 2023-06-02 19:03:51,654 "GET /properties/ HTTP/1.1" 500 255821
+INFO 2023-06-02 19:04:15,437 "GET /properties/ HTTP/1.1" 200 1785
+INFO 2023-06-02 19:04:15,468 "GET /properties/ HTTP/1.1" 200 1785
+INFO 2023-06-02 19:04:15,494 "GET /properties/ HTTP/1.1" 200 1785
+INFO 2023-06-02 19:04:15,728 "GET /media/properties/passports/image2_8S93ImV.png HTTP/1.1" 200 38574
+INFO 2023-06-02 19:04:15,730 "GET /media/properties/passports/image4_8pau8xJ.png HTTP/1.1" 200 61535
+INFO 2023-06-02 19:17:46,343 "GET /properties/ HTTP/1.1" 200 1785
+INFO 2023-06-02 19:17:46,376 "GET /properties/ HTTP/1.1" 200 1785
+INFO 2023-06-02 19:17:46,402 "GET /properties/ HTTP/1.1" 200 1785
+INFO 2023-06-02 19:17:58,348 "GET /properties/ HTTP/1.1" 200 1785
+INFO 2023-06-02 19:17:58,401 "GET /properties/ HTTP/1.1" 200 1785
+INFO 2023-06-02 19:17:58,428 "GET /properties/ HTTP/1.1" 200 1785
+INFO 2023-06-02 19:18:08,379 "GET /properties/ HTTP/1.1" 200 1785
+INFO 2023-06-02 19:18:08,406 "GET /properties/ HTTP/1.1" 200 1785
+INFO 2023-06-02 19:18:08,431 "GET /properties/ HTTP/1.1" 200 1785
+INFO 2023-06-02 19:19:05,492 "GET /properties/ HTTP/1.1" 200 1785
+INFO 2023-06-02 19:26:23,069 "GET /properties/ HTTP/1.1" 200 1785
+INFO 2023-06-02 19:26:23,102 "GET /properties/ HTTP/1.1" 200 1785
+INFO 2023-06-02 19:26:23,140 "GET /properties/ HTTP/1.1" 200 1785
+INFO 2023-06-02 19:27:25,211 "GET /properties/ HTTP/1.1" 200 1785
+INFO 2023-06-02 19:29:02,783 "GET /properties/ HTTP/1.1" 200 1785
+INFO 2023-06-02 19:29:02,812 "GET /properties/ HTTP/1.1" 200 1785
+INFO 2023-06-02 19:29:02,836 "GET /properties/ HTTP/1.1" 200 1785
+INFO 2023-06-02 19:31:35,286 "GET /properties/ HTTP/1.1" 200 1785
+INFO 2023-06-02 19:32:34,885 "GET /properties/ HTTP/1.1" 200 1785
+INFO 2023-06-02 19:33:28,381 "GET /properties/ HTTP/1.1" 200 1785
+INFO 2023-06-02 19:33:28,428 "GET /properties/ HTTP/1.1" 200 1785
+INFO 2023-06-02 19:34:52,063 "GET /properties/ HTTP/1.1" 200 1785
+INFO 2023-06-02 19:34:52,098 "GET /properties/ HTTP/1.1" 200 1785
+INFO 2023-06-02 19:34:52,129 "GET /properties/ HTTP/1.1" 200 1785
+INFO 2023-06-02 19:36:50,370 "GET /properties/ HTTP/1.1" 200 1785
+INFO 2023-06-02 19:47:31,962 "GET /properties/ HTTP/1.1" 200 1785
+INFO 2023-06-02 19:52:13,590 "GET /properties/ HTTP/1.1" 200 1785
+INFO 2023-06-02 19:52:13,639 "GET /properties/ HTTP/1.1" 200 1785
+INFO 2023-06-02 20:03:09,863 "GET /properties/ HTTP/1.1" 200 1785
+INFO 2023-06-02 20:03:32,308 "GET /properties/ HTTP/1.1" 200 1785
+INFO 2023-06-03 01:47:00,890 "OPTIONS /properties/ HTTP/1.1" 200 0
+INFO 2023-06-03 01:47:00,894 "OPTIONS /properties/ HTTP/1.1" 200 0
+INFO 2023-06-03 01:47:00,986 "GET /properties/ HTTP/1.1" 200 1785
+INFO 2023-06-03 01:47:01,029 "GET /properties/ HTTP/1.1" 200 1785
+INFO 2023-06-03 09:46:10,290 "OPTIONS /properties/ HTTP/1.1" 200 0
+INFO 2023-06-03 09:46:10,291 "OPTIONS /properties/ HTTP/1.1" 200 0
+INFO 2023-06-03 09:46:10,343 "GET /properties/ HTTP/1.1" 200 1785
+INFO 2023-06-03 09:46:10,390 "GET /properties/ HTTP/1.1" 200 1785
+INFO 2023-06-03 09:46:11,430 "GET /media/properties/passports/image2_8S93ImV.png HTTP/1.1" 304 0
+INFO 2023-06-03 09:46:11,431 "GET /media/properties/passports/image4_8pau8xJ.png HTTP/1.1" 304 0

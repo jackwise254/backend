@@ -1,0 +1,5 @@
+INFO 2023-04-22 14:21:20,101 Watching for file changes with StatReloader
+INFO 2023-04-22 14:25:58,071 "GET /properties/ HTTP/1.1" 200 3187
+INFO 2023-04-22 14:27:18,487 "GET /properties/ HTTP/1.1" 200 3187
+INFO 2023-04-22 14:27:51,842 "GET /properties/ HTTP/1.1" 200 3187
+INFO 2023-04-22 14:36:46,850 "GET /listings/2 HTTP/1.1" 200 902
